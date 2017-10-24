@@ -9,7 +9,10 @@
   "author": "Thormod",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "jslint": "^0.11.0"
+    "jslint": "^0.11.0",
+    "mongoose": "^4.12.4",
+    "node-restful": "^0.2.6"
   }
 }
